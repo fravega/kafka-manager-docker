@@ -7,6 +7,7 @@
 - ~~1.3.1.6 + 1 : defaulting to openjdk~~
 - 1.3.1.6 + 2 : switch to non root user
 - 1.3.1.6 + 3 : switch to alpine linux
+- 1.3.3.14 : Upgraded Kafka Manager version to support Kafka 0.11.x
 
 ## Howto
 ### Quick Start
